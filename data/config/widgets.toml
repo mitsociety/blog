@@ -1,7 +1,7 @@
 # About Widget config
 [about]
 title = "Blog MIT Society"            # default: .Site.Title
-description = "Berbagam berbagi tulisan" # default: .Site.Params.info.description
+description = "Berbagam berbagi catatan" # default: .Site.Params.info.description
 logo = "/images/logo.png"             # default: "/images/logo.png"
 
 # Breadcrumbs Widget config
