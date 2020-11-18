@@ -24,7 +24,9 @@ Selamat Milad ke-108 Muhammadiyah
 18 November 1912 - 18 November 2020
 
 #TerimaKasihMuhammadiyah
+#MITSociety
+#ITMuhammadiyah
 
-[tweetkan ini](http://twitter.com/share?text=Selamat+Milad+ke+108+Muhammadiyah%0A%0A&url=https://blog.mitsociety.id/posts/milad-108-muhammadiyah/&hashtags=TerimaKasihMuhammadiyah,Milad108)
+[tweetkan ini](http://twitter.com/share?text=Selamat+Milad+ke+108+Muhammadiyah%0A%0A&url=https://blog.mitsociety.id/posts/milad-108-muhammadiyah/&hashtags=TerimaKasihMuhammadiyah,Milad108,ITMuhammadiyah,mitsociety)
 
 [Unduh gambar](/images/logo-milad-108-animated.svg)
