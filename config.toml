@@ -6,6 +6,8 @@ theme = "minimo"
 
 [taxonomies]
 author = "authors"
+tag = "tags"
+category = "categories"
 
 [params.widgets]
 header = ["breadcrumbs"]
