@@ -14,3 +14,6 @@ header = ["breadcrumbs"]
 homepage = ["recent_posts"]
 sidebar = ["about","taxonomy_cloud"]
 footer = ["social_menu"]
+
+[params.opengraph.twitter]
+page = "@itmuhammadiyah" # for twitter:site tag
