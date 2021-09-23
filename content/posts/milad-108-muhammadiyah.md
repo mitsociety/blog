@@ -14,6 +14,7 @@ categories:
 draft: false
 cover: 
   image: /images/logo-milad-108-animated.svg
+socialshare: true
 ---
 Selamat Milad ke-108 Muhammadiyah
 ---
