@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:MIS 2021
+X-WR-TIMEZONE:Asia/Jakarta
+BEGIN:VEVENT
+DTSTART:20210925T020000Z
+DTEND:20210925T090000Z
+DTSTAMP:20210923T082309Z
+UID:2atr70e8vm04tubu3hln1itlqf@google.com
+CREATED:20210923T082234Z
+DESCRIPTION:# Keynote Speech\n1. Prof. Dr. Dadang Kahmad\, M.Si (Ketua PP M
+ uhammadiyah)\n2. Peran dakwah Muhammadiyah dalam mengarusutamakan wasathiya
+ h Islam di media sosial\n\n# Pengantar\n1. Faozan Amar\,S.Ag\, MM (Koordina
+ tor Revolusi Mental PP Muhammadiyah)\n2. Dr. Muchlas\, MT (Ketua MPI PP Muh
+ ammadiyah)\n\n# Narasumber\n1. Ismail Fahmi (Drone Emprit\, Infokom MUI Pus
+ at)\n2. Sakdiyah Ma'ruf (Content Creator\, Komika)\n3. Rulli Nasrullah (Dos
+ en UIN Jakarta\, Praktisi Media Social)\n4. Makroen Sanjaya (Dosen UMJ\, Di
+ rektur TVMu)\n5. M. Abdullah Darraz (MPI PP Muhammadiyah)\n \n \nhttps://bl
+ og.mitsociety.id/posts/muhammadiyah-influencer-speakup-2021/
+LAST-MODIFIED:20210923T082234Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Muhammadiyah's Influencer SpeakUp 2021
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
