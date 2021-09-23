@@ -39,7 +39,7 @@
       <!-- WhatsApp -->
       {{ if .Site.Params.social.share.whatsapp }}
       <li>
-        <a href="whatsapp://send?text={{ $body }}" target="_blank" class="share-btn whatsapp">
+		<a href="whatsapp://send?text={{ $body }}&url={{ $url }}" target="_blank" class="share-btn whatsapp">
           {{- partial "svg/whatsapp.svg" -}}
         </a>
       </li>
@@ -48,7 +48,7 @@
       <!-- Telegram -->
       {{ if .Site.Params.social.share.telegram }}
       <li>
-        <a href="tg://send?text={{ $body }}" target="_blank" class="share-btn telegram">
+		<a href="https://t.me/share/url?url={{ $url }}&text={{ $body }}" target="_blank" class="share-btn telegram">
           {{- partial "svg/icons" "telegram" -}}
         </a>
       </li>
