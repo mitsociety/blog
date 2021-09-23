@@ -13,6 +13,7 @@ categories:
 draft: false
 cover: 
   image: /images/ngprx-3-mendeley.png
+socialshare: true
 ---
 NGPRX #3
 ---
