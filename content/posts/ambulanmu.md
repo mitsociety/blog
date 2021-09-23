@@ -13,6 +13,7 @@ categories:
 draft: false
 cover: 
   image: /images/logo-ambulanmu.jpeg
+socialshare: true
 ---
 ---
 
