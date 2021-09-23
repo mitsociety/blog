@@ -1,7 +1,6 @@
 baseURL = "http://blog.mitsociety.id/"
 languageCode = "id-id"
 title = "Blog Muhammadiyah IT Society"
-
 theme = "minimo"
 
 [taxonomies]
@@ -12,8 +11,35 @@ category = "categories"
 [params.widgets]
 header = ["breadcrumbs"]
 homepage = ["recent_posts"]
-sidebar = ["about","taxonomy_cloud"]
-footer = ["social_menu"]
+sidebar = ["about","taxonomy_cloud", "social_menu"]
+footer = []
 
 [params.opengraph.twitter]
 page = "@itmuhammadiyah" # for twitter:site tag
+
+[params.opengraph.facebook]
+page = "itmuhammadiyah" 
+
+[params.sidebar]
+enable = true
+
+[params.social]
+enable = true
+facebook = "itmuhammadiyah"
+twitter = "@itmuhammadiyah"
+instagram = "mitsociety.id"
+github = "mitsociety"
+youtube = "UC5PG0H3kc5TBnsmA73U5OSg"
+
+
+[params.social.share]
+facebook = true
+linkedin = true
+twitter = true
+whatsapp = true
+telegram = true
+email = true
+
+[params.assets]
+customCSS = ["css/style.css"]
+
