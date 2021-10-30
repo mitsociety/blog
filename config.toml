@@ -11,7 +11,7 @@ category = "categories"
 [params.widgets]
 header = ["breadcrumbs"]
 homepage = ["recent_posts"]
-sidebar = ["about","taxonomy_cloud", "social_menu"]
+sidebar = ["about", "social_menu", "taxonomy_cloud"]
 footer = []
 
 [params.opengraph.twitter]
