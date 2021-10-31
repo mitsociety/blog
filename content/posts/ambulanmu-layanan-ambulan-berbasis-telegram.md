@@ -1,5 +1,5 @@
 ---
-title: "Ambulanmu, Layanan Ambulan Berbasis Telegram"
+title: "NGPRX: Ambulanmu, Layanan Ambulan Berbasis Telegram"
 slug: "ambulanmu-layanan-ambulan-berbasis-telegram"
 date: 2021-10-28T05:31:35+07:00
 tags: 

@@ -1,5 +1,5 @@
 ---
-title: "Mudah Mengatur Referensi dengan Mendeley"
+title: "NGPRX: Mudah Mengatur Referensi dengan Mendeley"
 slug: "mudah-mengatur-referensi-dengan-mendeley"
 date: 2021-02-06T05:31:35+07:00
 tags: 
