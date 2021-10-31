@@ -1,5 +1,5 @@
 ---
-title: "Bedah Fitur Baru Laravel 8"
+title: "NGPRX: Bedah Fitur Baru Laravel 8"
 slug: "bedah-fitur-baru-laravel-8"
 date: 2020-10-05T13:03:30+07:00
 tags: 

@@ -1,5 +1,5 @@
 ---
-title: "5 Menit Membangun Web Bisnis"
+title: "NGPRX: 5 Menit Membangun Web Bisnis"
 slug: "5-menit-membangun-web-bisnis"
 date: 2021-09-30T05:31:35+07:00
 tags: 
